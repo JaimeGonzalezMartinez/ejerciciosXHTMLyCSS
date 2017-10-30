@@ -1,0 +1,13 @@
+<!ELEMENT song (title, composers, producers, publisher, artists)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT composers (composer+)>
+<!ELEMENT composer (nombre, apellidos)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT apellidos (#PCDATA)>
+<!ELEMENT producers (producer+)>
+<!ELEMENT producer (nombre1, apellidos1)>
+<!ELEMENT nombre1 (#PCDATA)>
+<!ELEMENT apellidos1 (#PCDATA)>
+<!ELEMENT publisher (#PCDATA)>
+<!ELEMENT artists (artist+)>
+<!ELEMENT artist (#PCDATA)>

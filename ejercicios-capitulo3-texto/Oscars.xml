@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Oscars año="2015">
+   <Mejor-Pelicula>
+     <Nominada>American Sniper</Nominada>
+     <Nominada>Boyhood</Nominada>
+     <Nominada>El Gran Hotel Budapest</Nominada>
+     <Nominada ganadora="si">Birdman</Nominada>
+   </Mejor-Pelicula>
+   <Mejor-Actriz>
+     <Ganadora>Juliana Moore</Ganadora>
+     <Nominada>
+       <Nombre>Marion Cotillard</Nombre>
+       <Nombre>Felicity Jones</Nombre>
+      </Nominada>
+    </Mejor-Actriz>
+    <Mejor-Actor>
+     <Ganador>Eddie Redmayne</Ganador>
+     <Nominada>
+       <Nombre>Steve Carrell</Nombre>
+       <Nombre>Bradley Cooper</Nombre>
+      </Nominada>
+    </Mejor-Actor>
+  </Oscars>
